@@ -1,0 +1,163 @@
+2024-10-05 12:56:44,378 INFO Set uid to user 0 succeeded
+2024-10-05 12:56:44,434 INFO supervisord started with pid 14
+2024-10-05 12:56:45,462 INFO spawned: 'worker_00' with pid 17
+2024-10-05 12:56:45,509 INFO spawned: 'worker_01' with pid 18
+2024-10-05 12:56:45,535 INFO spawned: 'worker_02' with pid 19
+2024-10-05 12:56:45,560 INFO spawned: 'worker_03' with pid 20
+2024-10-05 12:56:45,647 INFO spawned: 'worker_04' with pid 21
+2024-10-05 12:56:45,701 INFO spawned: 'worker_05' with pid 22
+2024-10-05 12:56:45,777 INFO spawned: 'worker_06' with pid 23
+2024-10-05 12:56:46,795 INFO spawned: 'worker_07' with pid 24
+2024-10-05 12:56:47,250 INFO success: worker_00 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-10-05 12:56:47,253 INFO success: worker_01 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-10-05 12:56:47,257 INFO success: worker_02 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-10-05 12:56:47,260 INFO success: worker_03 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-10-05 12:56:47,267 INFO success: worker_04 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-10-05 12:56:47,271 INFO success: worker_05 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-10-05 12:56:47,273 INFO success: worker_06 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-10-05 12:56:47,278 INFO exited: worker_05 (exit status 255; not expected)
+2024-10-05 12:56:47,293 INFO spawned: 'worker_05' with pid 25
+2024-10-05 12:56:47,340 INFO exited: worker_03 (exit status 255; not expected)
+2024-10-05 12:56:47,356 INFO exited: worker_00 (exit status 255; not expected)
+2024-10-05 12:56:47,357 INFO exited: worker_01 (exit status 255; not expected)
+2024-10-05 12:56:47,358 INFO exited: worker_02 (exit status 255; not expected)
+2024-10-05 12:56:47,368 INFO exited: worker_06 (exit status 255; not expected)
+2024-10-05 12:56:47,404 INFO spawned: 'worker_00' with pid 26
+2024-10-05 12:56:47,416 INFO spawned: 'worker_01' with pid 27
+2024-10-05 12:56:47,453 INFO spawned: 'worker_02' with pid 28
+2024-10-05 12:56:47,464 INFO spawned: 'worker_03' with pid 29
+2024-10-05 12:56:47,623 INFO spawned: 'worker_06' with pid 30
+2024-10-05 12:56:47,628 INFO success: worker_07 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-10-05 12:56:47,632 INFO exited: worker_04 (exit status 255; not expected)
+2024-10-05 12:56:47,653 INFO exited: worker_07 (exit status 255; not expected)
+2024-10-05 12:56:47,780 INFO spawned: 'worker_04' with pid 31
+2024-10-05 12:56:47,804 INFO spawned: 'worker_07' with pid 32
+2024-10-05 12:56:47,998 INFO exited: worker_05 (exit status 255; not expected)
+2024-10-05 12:56:48,002 INFO exited: worker_03 (exit status 255; not expected)
+2024-10-05 12:56:48,044 INFO exited: worker_06 (exit status 255; not expected)
+2024-10-05 12:56:48,051 INFO exited: worker_01 (exit status 255; not expected)
+2024-10-05 12:56:48,232 INFO exited: worker_00 (exit status 255; not expected)
+2024-10-05 12:56:48,249 INFO exited: worker_04 (exit status 255; not expected)
+2024-10-05 12:56:48,305 INFO exited: worker_07 (exit status 255; not expected)
+2024-10-05 12:56:48,314 INFO exited: worker_02 (exit status 255; not expected)
+2024-10-05 12:56:49,356 INFO spawned: 'worker_00' with pid 33
+2024-10-05 12:56:49,365 INFO spawned: 'worker_01' with pid 34
+2024-10-05 12:56:49,371 INFO spawned: 'worker_02' with pid 35
+2024-10-05 12:56:49,383 INFO spawned: 'worker_03' with pid 36
+2024-10-05 12:56:49,413 INFO spawned: 'worker_04' with pid 37
+2024-10-05 12:56:49,432 INFO spawned: 'worker_05' with pid 38
+2024-10-05 12:56:49,459 INFO spawned: 'worker_06' with pid 39
+2024-10-05 12:56:49,508 INFO spawned: 'worker_07' with pid 40
+2024-10-05 12:56:49,640 INFO exited: worker_01 (exit status 255; not expected)
+2024-10-05 12:56:49,698 INFO exited: worker_00 (exit status 255; not expected)
+2024-10-05 12:56:49,699 INFO exited: worker_03 (exit status 255; not expected)
+2024-10-05 12:56:49,720 INFO exited: worker_02 (exit status 255; not expected)
+2024-10-05 12:56:49,790 INFO exited: worker_06 (exit status 255; not expected)
+2024-10-05 12:56:49,868 INFO exited: worker_04 (exit status 255; not expected)
+2024-10-05 12:56:49,872 INFO exited: worker_05 (exit status 255; not expected)
+2024-10-05 12:56:50,883 INFO success: worker_07 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-10-05 12:56:50,885 INFO exited: worker_07 (exit status 255; not expected)
+2024-10-05 12:56:51,899 INFO spawned: 'worker_00' with pid 41
+2024-10-05 12:56:52,042 INFO spawned: 'worker_01' with pid 42
+2024-10-05 12:56:52,104 INFO spawned: 'worker_02' with pid 43
+2024-10-05 12:56:52,144 INFO spawned: 'worker_03' with pid 44
+2024-10-05 12:56:52,163 INFO spawned: 'worker_04' with pid 45
+2024-10-05 12:56:52,174 INFO spawned: 'worker_05' with pid 46
+2024-10-05 12:56:52,187 INFO spawned: 'worker_06' with pid 47
+2024-10-05 12:56:52,217 INFO spawned: 'worker_07' with pid 48
+2024-10-05 12:56:52,229 INFO exited: worker_00 (exit status 255; not expected)
+2024-10-05 12:56:52,359 INFO exited: worker_02 (exit status 255; not expected)
+2024-10-05 12:56:52,387 INFO exited: worker_04 (exit status 255; not expected)
+2024-10-05 12:56:52,446 INFO exited: worker_01 (exit status 255; not expected)
+2024-10-05 12:56:52,453 INFO exited: worker_03 (exit status 255; not expected)
+2024-10-05 12:56:52,480 INFO exited: worker_05 (exit status 255; not expected)
+2024-10-05 12:56:52,486 INFO exited: worker_06 (exit status 255; not expected)
+2024-10-05 12:56:53,636 INFO success: worker_07 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-10-05 12:56:53,637 INFO exited: worker_07 (exit status 255; not expected)
+2024-10-05 12:56:54,649 INFO spawned: 'worker_07' with pid 49
+2024-10-05 12:56:55,733 INFO spawned: 'worker_00' with pid 50
+2024-10-05 12:56:55,745 INFO spawned: 'worker_01' with pid 51
+2024-10-05 12:56:55,867 INFO spawned: 'worker_02' with pid 52
+2024-10-05 12:56:56,046 INFO spawned: 'worker_03' with pid 53
+2024-10-05 12:56:56,105 INFO spawned: 'worker_04' with pid 54
+2024-10-05 12:56:56,170 INFO spawned: 'worker_05' with pid 55
+2024-10-05 12:56:56,193 INFO spawned: 'worker_06' with pid 56
+2024-10-05 12:56:56,209 INFO success: worker_07 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-10-05 12:56:56,237 INFO exited: worker_07 (exit status 255; not expected)
+2024-10-05 12:56:56,305 INFO exited: worker_00 (exit status 255; not expected)
+2024-10-05 12:56:56,335 INFO exited: worker_01 (exit status 255; not expected)
+2024-10-05 12:56:56,344 INFO gave up: worker_00 entered FATAL state, too many start retries too quickly
+2024-10-05 12:56:56,355 INFO gave up: worker_01 entered FATAL state, too many start retries too quickly
+2024-10-05 12:56:56,435 INFO spawned: 'worker_07' with pid 57
+2024-10-05 12:56:56,465 INFO exited: worker_02 (exit status 255; not expected)
+2024-10-05 12:56:56,471 INFO gave up: worker_02 entered FATAL state, too many start retries too quickly
+2024-10-05 12:56:56,653 INFO exited: worker_05 (exit status 255; not expected)
+2024-10-05 12:56:56,655 INFO gave up: worker_05 entered FATAL state, too many start retries too quickly
+2024-10-05 12:56:56,686 INFO exited: worker_03 (exit status 255; not expected)
+2024-10-05 12:56:56,693 INFO exited: worker_04 (exit status 255; not expected)
+2024-10-05 12:56:56,694 INFO exited: worker_06 (exit status 255; not expected)
+2024-10-05 12:56:56,706 INFO gave up: worker_03 entered FATAL state, too many start retries too quickly
+2024-10-05 12:56:56,709 INFO gave up: worker_04 entered FATAL state, too many start retries too quickly
+2024-10-05 12:56:56,710 INFO gave up: worker_06 entered FATAL state, too many start retries too quickly
+2024-10-05 12:56:57,714 INFO success: worker_07 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-10-05 12:56:57,717 INFO exited: worker_07 (exit status 255; not expected)
+2024-10-05 12:56:58,753 INFO spawned: 'worker_07' with pid 58
+2024-10-05 12:57:00,237 INFO success: worker_07 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-10-05 12:57:00,247 INFO exited: worker_07 (exit status 255; not expected)
+2024-10-05 12:57:01,468 INFO spawned: 'worker_07' with pid 60
+2024-10-05 12:57:02,815 INFO success: worker_07 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-10-05 12:57:02,838 INFO exited: worker_07 (exit status 255; not expected)
+2024-10-05 12:57:03,847 INFO spawned: 'worker_07' with pid 61
+2024-10-05 12:57:04,948 INFO success: worker_07 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-10-05 12:57:04,949 INFO exited: worker_07 (exit status 255; not expected)
+2024-10-05 12:57:05,961 INFO spawned: 'worker_07' with pid 62
+2024-10-05 12:57:07,492 INFO success: worker_07 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-10-05 12:57:07,494 INFO exited: worker_07 (exit status 255; not expected)
+2024-10-05 12:57:08,518 INFO spawned: 'worker_07' with pid 63
+2024-10-05 12:57:08,770 INFO exited: worker_07 (exit status 255; not expected)
+2024-10-05 12:57:09,792 INFO spawned: 'worker_07' with pid 64
+2024-10-05 12:57:10,997 INFO success: worker_07 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-10-05 12:57:11,006 INFO exited: worker_07 (exit status 255; not expected)
+2024-10-05 12:57:12,030 INFO spawned: 'worker_07' with pid 65
+2024-10-05 12:57:13,241 INFO success: worker_07 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-10-05 12:57:13,269 INFO exited: worker_07 (exit status 255; not expected)
+2024-10-05 12:57:14,358 INFO spawned: 'worker_07' with pid 66
+2024-10-05 12:57:15,368 INFO success: worker_07 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-10-05 12:57:15,918 INFO exited: worker_07 (exit status 255; not expected)
+2024-10-05 12:57:16,048 INFO spawned: 'worker_07' with pid 67
+2024-10-05 12:57:17,869 INFO success: worker_07 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-10-05 12:57:17,872 INFO exited: worker_07 (exit status 255; not expected)
+2024-10-05 12:57:18,927 INFO spawned: 'worker_07' with pid 68
+2024-10-05 12:57:20,447 INFO success: worker_07 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-10-05 12:57:20,449 INFO exited: worker_07 (exit status 255; not expected)
+2024-10-05 12:57:21,467 INFO spawned: 'worker_07' with pid 69
+2024-10-05 12:57:22,768 INFO success: worker_07 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-10-05 12:57:22,768 INFO exited: worker_07 (exit status 255; not expected)
+2024-10-05 12:57:23,787 INFO spawned: 'worker_07' with pid 70
+2024-10-05 12:57:24,926 INFO success: worker_07 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-10-05 12:57:24,934 INFO exited: worker_07 (exit status 255; not expected)
+2024-10-05 12:57:26,224 INFO spawned: 'worker_07' with pid 71
+2024-10-05 12:57:27,863 INFO success: worker_07 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-10-05 12:57:27,872 INFO exited: worker_07 (exit status 255; not expected)
+2024-10-05 12:57:28,888 INFO spawned: 'worker_07' with pid 72
+2024-10-05 12:57:29,950 INFO success: worker_07 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-10-05 12:57:29,951 INFO exited: worker_07 (exit status 255; not expected)
+2024-10-05 12:57:31,075 INFO spawned: 'worker_07' with pid 73
+2024-10-05 12:57:32,573 INFO success: worker_07 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-10-05 12:57:32,574 INFO exited: worker_07 (exit status 255; not expected)
+2024-10-05 12:57:33,797 INFO spawned: 'worker_07' with pid 74
+2024-10-05 12:57:35,571 INFO success: worker_07 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-10-05 12:57:35,572 INFO exited: worker_07 (exit status 255; not expected)
+2024-10-05 12:57:36,647 INFO spawned: 'worker_07' with pid 75
+2024-10-05 12:57:38,101 INFO success: worker_07 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-10-05 12:57:38,102 INFO exited: worker_07 (exit status 255; not expected)
+2024-10-05 12:57:39,161 INFO spawned: 'worker_07' with pid 76
+2024-10-05 12:57:40,317 INFO success: worker_07 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-10-05 12:57:40,330 INFO exited: worker_07 (exit status 255; not expected)
+2024-10-05 12:57:41,360 INFO spawned: 'worker_07' with pid 77
+2024-10-05 12:57:42,471 INFO success: worker_07 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-10-05 12:57:42,473 INFO exited: worker_07 (exit status 255; not expected)
+2024-10-05 12:57:43,485 INFO spawned: 'worker_07' with pid 78
+2024-10-05 12:57:44,659 INFO success: worker_07 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-10-05 12:57:44,663 INFO exited: worker_07 (exit status 255; not expected)
+2024-10-05 12:57:45,688 INFO spawned: 'worker_07' with pid 79
