@@ -1,5 +1,5 @@
+@if(isset($contact)) 
 <section class="map" id="contacts">
-    <a class="trig fa-remove" href=""></a>
     <div class="yandex-map-container"
          data-center="Университетская улица, 4, Сургут"
          data-zoom="14"
@@ -15,8 +15,4 @@
         <address>{{$contact['address']}}</address>
     </div>
 </section>
-
-<!-- Подключение скрипта Яндекс Карт -->
-
-<!-- Скрипт для инициализации карты -->
-
+@endif
