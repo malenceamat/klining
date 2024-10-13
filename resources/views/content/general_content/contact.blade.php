@@ -10,7 +10,7 @@
     <div class="well1 contacts center" id="form">
         <h2>Контакты</h2>
         <ul class="list-inline">
-            <li><a class="phone-icon" href="tel:#">{{$contact['number']}}</a></li>
+            <li><a class="ph" href="tel:#">{{$contact['number']}}</a> <i class="bi bi-phone"></i></li>
         </ul>
         <address>{{$contact['address']}}</address>
     </div>
