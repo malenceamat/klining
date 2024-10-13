@@ -1,5 +1,5 @@
 <section class="well1 well1_ins center" id="gallery">
-    <h2>Gallery</h2>
+    <h2>Галерея</h2>
     <div class="gallery" data-lightgallery="group">
         <div class="gallery-row">
             @foreach($gallery as $gal)
