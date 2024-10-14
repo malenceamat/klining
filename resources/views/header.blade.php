@@ -11,7 +11,7 @@
                     <!-- RD Navbar Toggle-->
                     <button class="rd-navbar-toggle" data-rd-navbar-toggle=".rd-navbar-nav"><span
                             class="toggle-icon"></span></button>
-                    <!-- RD Navbar Brand--><a class="rd-navbar-brand" href="index.html"><img
+                    <!-- RD Navbar Brand--><a class="rd-navbar-brand" href="#"><img
                             src="https://livedemo00.template-help.com/wt_prod-20484/images/logo-103x43.png"
                             width="77" height="58" alt=""></a>
                 </div>
